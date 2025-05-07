@@ -95,7 +95,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👨‍💻 Developer
 
 **Mridul Roy**
-📧 [mridul@example.com](mailto:mridulr172@gmail.com)
+📧 (mailto:mridulr172@gmail.com)
 🔗 [LinkedIn]([https://www.linkedin.com/in/mridul-roy-064408183/](https://www.linkedin.com/in/mridul-roy-064408183/)
 📘 [Facebook]([https://www.facebook.com/mridul.roy.881391](https://www.facebook.com/mridul.roy.881391)
 💻 [LeetCode](https://www.leetcode.com/mroy193154)
